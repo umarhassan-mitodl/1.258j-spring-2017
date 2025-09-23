@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Transportation Engineering"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ]
+  ],
+  "legacy_uid": "481eb630-068f-189a-c941-cc07e1a77be6",
+  "instructors": {
+    "content": [
+      "f7fa0801-6ff6-9926-9da1-49c325b4a5b1",
+      "b25827fd-6d0e-c775-4c99-81b44485d36f",
+      "eda409a3-5d53-512e-21b1-244229149b1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f05dd8f8-311e-e9d6-d192-ab981cbbdf3e",
+    "website": "1-258j-public-transportation-systems-spring-2017"
+  },
+  "course_title": "Public Transportation Systems",
+  "course_description": "This course discusses the evolution and role of urban public transportation modes, systems, and services, focusing on bus and rail. It covers various topics, including current practice and new methods for data collection and analysis, performance monitoring, route design, frequency determination, vehicle and crew scheduling, effect of pricing policy and service quality on ridership.\n",
+  "department_numbers": [
+    "1",
+    "11"
+  ],
+  "extra_course_numbers": "11.541J",
+  "primary_course_number": "1.258J",
+  "course_image_thumbnail": {
+    "content": "b45a627e-7216-bf30-a8c3-d9aba681ee03",
+    "website": "1-258j-public-transportation-systems-spring-2017"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "site_uid": "ff7eddc7-d3ff-46cd-891b-f6f02a434653",
+  "site_short_id": "1.258j-spring-2017",
+  "site_url_path": "courses/1-258j-public-transportation-systems-spring-2017",
+  "title": "Course Metadata"
+}
