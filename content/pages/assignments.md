@@ -2,6 +2,8 @@
 content_type: page
 description: This page contains all the homework assigned for this course of MIT 1.258
   Public Transportation Systems of Spring, 2017.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
