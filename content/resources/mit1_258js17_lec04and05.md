@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-258j-public-transportation-systems-spring-2017/3c52a58746ec9861f054c9a6c48d5c56_MIT1_258JS17_lec04and05.pdf
 file_size: 289525
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

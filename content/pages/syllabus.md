@@ -3,6 +3,8 @@ content_type: page
 description: This page provides general information regarding grading, textbook, and
   other course policies for MIT course 1.258 Public Transportation Systems of spring
   2017.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
