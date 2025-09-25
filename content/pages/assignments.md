@@ -91,7 +91,7 @@ Cyclic operation in transit data ({{% resource_link c8505d5b-58c5-7f51-b7c7-1cf0
 {{< tdopen >}}
 
 
-{{% resource_link "b3c30976-9c4f-462a-99ab-ed9a80cbed23" "Michael A. Gordon's MIT Thesis Paper (PDF - 4.2 MB)" %}}
+[Michael A. Gordon's MIT Thesis Paper (PDF - 4.2 MB)](https://dspace.mit.edu/bitstream/handle/1721.1/99547/925486156-MIT.pdf;sequence=1)
 
 
 {{< tdclose >}}
