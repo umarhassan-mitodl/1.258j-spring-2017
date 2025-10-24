@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-258j-public-transportation-systems-spring-2017/ddba433b5e1a08d1b4487b80c961523b_mp7Nz8CUPBM.srt
 file_size: 114761
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

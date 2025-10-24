@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides the schedule of the spring 2017 MIT course 1.258 Public
   Transportation Systems.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

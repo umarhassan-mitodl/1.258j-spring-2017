@@ -30,7 +30,6 @@
     "website": "1-258j-public-transportation-systems-spring-2017"
   },
   "course_title": "Public Transportation Systems",
-  "hide_download": true,
   "course_description": "This course discusses the evolution and role of urban public transportation modes, systems, and services, focusing on bus and rail. It covers various topics, including current practice and new methods for data collection and analysis, performance monitoring, route design, frequency determination, vehicle and crew scheduling, effect of pricing policy and service quality on ridership.\n",
   "department_numbers": [
     "1",
@@ -42,7 +41,6 @@
     "content": "b45a627e-7216-bf30-a8c3-d9aba681ee03",
     "website": "1-258j-public-transportation-systems-spring-2017"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes"
