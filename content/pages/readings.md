@@ -9,27 +9,27 @@ ocw_type: CourseSection
 title: Readings
 uid: 42abd67a-9f48-42a5-af87-5f5be2288986
 ---
-\[BPTS\] = E. C. Bruun. In *Better Public Transit Systems: Analyzing Investments and Performance*. Routledge, 2007. ISBN: 978-1932364484. \[Preview with [Google Books](https://books.google.com/books?id=hfwJAgAAQBAJ&printsec=frontcover&dq=Better+Public+Transit+Systems:+Analyzing+Investments+and+Performance&hl=en&newbks=1&sa=X&ved=2ahUKEwiqlKb-xPXfAhVGb60KHRZzCnAQuwUwAHoECAQQBA#v=onepage&q=Better%20Public%20Transit%20Systems%3A%20Analyzing%20Investments%20and%20Performance&f=false)\]
+\[BPTS\] = E. C. Bruun. In *Better Public Transit Systems: Analyzing Investments and Performance*. Routledge, 2007. ISBN: 978-1932364484. \[Preview with {{% resource_link "d2ba925b-39d9-4a67-a324-3bccd62c7f11" "Google Books" %}}\]
 
 The following readings were provided in order and assigned to the students through out the semester:
 
-P. G. Furth, "Introduction to Public Transportation Systems" in Chapter 61: Urban Transit, *Civil Engineering Handbook*, CRC Press LLC, 2003. ISBN: 9781580531412. \[Preview with [Google Books](https://books.google.com/books?id=9Q3OBQAAQBAJ&printsec=frontcover&dq=Civil+Engineering+Handbook+2003&hl=en&newbks=1&sa=X&ved=2ahUKEwihxqvImvXfAhUQneAKHY9aAH0Q6AEwAHoECAcQAg#v=onepage&q=Civil%20Engineering%20Handbook%202003&f=false)\]
+P. G. Furth, "Introduction to Public Transportation Systems" in Chapter 61: Urban Transit, *Civil Engineering Handbook*, CRC Press LLC, 2003. ISBN: 9781580531412. \[Preview with {{% resource_link "2917540c-c98a-4cd8-a041-e51661d6e0cd" "Google Books" %}}\]
 
 J. Neff and M. Dickens, *2015 Public Transportation Fact Book*, 66th Edition, November 2016, American Public Transportation Association.
 
-[*Transit Capacity and Quality of Service Manual*](http://www.trb.org/Main/Public/Blurbs/153590.aspx). 2nd ed. TCRP Report 100. Transportation Research Board, 2003.
+{{% resource_link "481e418f-6554-4baf-934f-e9bd64e34f9b" "*Transit Capacity and Quality of Service Manual*" %}}. 2nd ed. TCRP Report 100. Transportation Research Board, 2003.
 
 \[BPTS\] Chapter 2: Establishing Goals and Objectives.
 
 P. G. Furth, J. Attanucci, I. Burns, and N. H. M. Wilson, "Transit Data Collection Design Manual." U.S. DOT Report DOT-I-85-38, 1985, pp. 1-121.
 
-P. G. Furth, B. Hemily, T. Muller, and J. Strathman, "[TCRP Report 113: Using Archived AVL-APC Data to Improve Transit Performance and Management](http://www.trb.org/Publications/Blurbs/156999.aspx)." Transportation Research Board, 2006.
+P. G. Furth, B. Hemily, T. Muller, and J. Strathman, "{{% resource_link "c9abe782-8b05-4ef6-8455-f4b673240fee" "TCRP Report 113: Using Archived AVL-APC Data to Improve Transit Performance and Management" %}}." Transportation Research Board, 2006.
 
-P. G. Furth, ["Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring." (PDF - 1.4 MB)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn34.pdf) Transportation Research Board, 2000. *MBTA Service Delivery Policy*, Massachusetts Bay Transportation Authority, 2010
+P. G. Furth, {{% resource_link "64d12b02-79cf-4665-9d51-bca6a5fbb076" "\"Synthesis of Transit Practice 34: Data Analysis for Bus Planning and Monitoring.\" (PDF - 1.4 MB)" %}} Transportation Research Board, 2000. *MBTA Service Delivery Policy*, Massachusetts Bay Transportation Authority, 2010
 
 W. R. Dawson, "Optimizing Transit Service Decisions Based on Ridership – Good for Passengers and the Community." Paper presented at UITP Congress, Toronto, May 1999.
 
-H. Benn, ["Synthesis of Transit Practice 10: Bus Route Evaluation Standards." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn10.pdf) Transportation Research Board, 1995.
+H. Benn, {{% resource_link "08f5928c-ab02-4004-bb22-b9a83e3c630c" "\"Synthesis of Transit Practice 10: Bus Route Evaluation Standards.\" (PDF)" %}} Transportation Research Board, 1995.
 
 N. H. M. Wilson, D. Nelson, A. Palmere, T. Grayson, and C. Cederquist, "Service Quality Monitoring for High-Frequency Transit Lines." *Transportation Research Record* 1349 (1992): 3-11.
 
@@ -45,7 +45,7 @@ Z. Peng, K. Dueker, J. Strathman, and J. Hopper, "A Simultaneous Route-level Tra
 
 Toronto Transit Commission, "Ridership Forecasting Methods." *Service Standards Process Technical Background Papers* no. 1, January 1991.
 
-Toronto Transit Commission, [*Service Improvements for 2008* (PDF)](https://pw.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2008/April-23/Service_Improvements_For_2008.pdf), April 2008.
+Toronto Transit Commission, {{% resource_link "c9ec45a4-86f5-4ace-b170-ce98bccb3fc9" "*Service Improvements for 2008* (PDF)" %}}, April 2008.
 
 R. A. Chapman and J. F. Michel, "Modeling the Tendency of Buses to Form Pairs." *Transportation Science* 12, no. 2 (1978): 165-175.
 
@@ -55,7 +55,7 @@ N. H. M. Wilson and T. Lin, "Dwell-Time Relationships for Light Rail Systems." *
 
 M. N. Milkovtis, "Modeling the Factors Affecting Bus Stop Dwell Time." In *Transportation Research Record: Journal of the Transportation Research Board,* no. 2072, Transportation Research Board of the National Academies, Washington, D.C., 2008. pp. 125—130.
 
-["A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System." (PDF)](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_report_88/SummaryDoc.pdf) Transportation Research Board, 2003.
+{{% resource_link "647e8052-7a5d-4561-8ca4-5473326e1e21" "\"A Summary of TCRP Report 88: A Guidebook for Developing a Transit Performance-Measurement System.\" (PDF)" %}} Transportation Research Board, 2003.
 
 J. B. Gordon et al, "Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data." In *Transportation Research Record: Journal of the Transportation Research Board*, no. 2072, Transportation Research Board of the National Academies, Washington, D.C., 2013. pp. 17—24.
 
@@ -73,7 +73,7 @@ F. J. M. Salzborn, "Optimum Bus Scheduling." Transportation Science 6 (1972): 1
 
 A. Ceder and N. H. M. Wilson, "Bus Network Design." *Transportation Research* 20B, no. 4 (1986): 331-344.
 
- V. Vuchic, Sections 4.1–4.6, pp. 185–247. In *Urban Transit: Operations, Planning and Economics*. New York, NY: Wiley, 2005. ISBN: 9780471632658. \[Preview with [Google Books](https://books.google.com/books?id=4pU-DwAAQBAJ&printsec=frontcover&dq=Urban+Transit:+Operations,+Planning+and+Economics&hl=en&newbks=1&sa=X&ved=2ahUKEwjhw-r4yfXfAhWvhOAKHVlNB9QQuwUwAHoECAQQBA#v=onepage&q=Urban%20Transit%3A%20Operations%2C%20Planning%20and%20Economics&f=false)\]
+ V. Vuchic, Sections 4.1–4.6, pp. 185–247. In *Urban Transit: Operations, Planning and Economics*. New York, NY: Wiley, 2005. ISBN: 9780471632658. \[Preview with {{% resource_link "d0ae4784-42a3-47c7-bf37-9968fe75991f" "Google Books" %}}\]
 
 J. Becker, and J. Bakker. "The Design of Timed Transfer Networks." Proceedings of Operations and Service Planning Symposium, Washington, DC, 1993.
 
@@ -83,9 +83,9 @@ R. Halvorsen and N. H. M. Wilson, "The Role of Contract Structuring in Contracte
 
 P. Furth and T. Muller, "Conditional Bus Priority at Signalized Intersections: Better Service Quality with Less Traffic Disruption." *Transportation Research Record* 1731 (2000): 23-30.
 
-[*TCRP Report 94: Fare Policies, Structures and Technologies: Update (PDF - 1.9 MB)*](http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_rpt_94.pdf). Transportation Research Board, 2003.
+{{% resource_link "5ecb69bc-3d36-4885-88a4-898147a52772" "*TCRP Report 94: Fare Policies, Structures and Technologies: Update (PDF - 1.9 MB)*" %}}. Transportation Research Board, 2003.
 
- V. Vuchic, Chapter 7: Transit Fares. In *Urban Transit: Operations, Planning and Economics*. New York, NY: Wiley, 2005. ISBN: 9780471632658. \[Preview with [Google Books](https://books.google.com/books?id=4pU-DwAAQBAJ&printsec=frontcover&dq=Urban+Transit:+Operations,+Planning+and+Economics&hl=en&newbks=1&sa=X&ved=2ahUKEwjhw-r4yfXfAhWvhOAKHVlNB9QQuwUwAHoECAQQBA#v=onepage&q=Urban%20Transit%3A%20Operations%2C%20Planning%20and%20Economics&f=false)\]
+ V. Vuchic, Chapter 7: Transit Fares. In *Urban Transit: Operations, Planning and Economics*. New York, NY: Wiley, 2005. ISBN: 9780471632658. \[Preview with {{% resource_link "d0ae4784-42a3-47c7-bf37-9968fe75991f" "Google Books" %}}\]
 
 H. N. Koutsopolos and N. H. M. Wilson, "Operator Workforce Planning in the Transit Industry." *Transportation Research* 21A, no. 2 (1987): 127-138.
 
